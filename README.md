@@ -1,5 +1,5 @@
-# online-coverletter
-## Minchan's Cover Letter
+# Minchan Kim
+## 자기소개서
 
 ### 친구, 해보기나 했어?
   
